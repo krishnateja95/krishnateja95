@@ -4,15 +4,23 @@ Hi there! My name is Krishna Teja Chitty-Venkata. I am a passionate and enthusia
 
 ## Education:
 - Iowa State University, Ames, Iowa, USA
+- 
   Doctor of Philosophy (PhD)
+
   Department of Electrical and Computer Engineering
+
   August 2017 - July 2023
+
   Dissertation Title: Hardware-aware Design, Search and Optimization of Deep Neural Networks
+
   PhD Supervisor: Prof. Dr. Arun Somani
 
 - University College of Engineering, Osmania University, Hyderabad, India
+
   Bachelor of Engineering
+
   Electronics and Communication Engineering
+
   2013 - 2017
 
 
