@@ -4,7 +4,7 @@ Hi there! My name is Krishna Teja Chitty-Venkata. I am a passionate and enthusia
 
 ## Education:
 - Iowa State University, Ames, Iowa, USA
-- 
+  
   Doctor of Philosophy (PhD)
 
   Department of Electrical and Computer Engineering
