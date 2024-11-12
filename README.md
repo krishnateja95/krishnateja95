@@ -8,7 +8,7 @@ Hi there! My name is Krishna Teja Chitty-Venkata. I am a passionate and enthusia
 Broadly, I am interested in optimizing Deep Learning models on Hardware accelerators.
 
 - Large Language and Multimodal Model Optimization
-- Developing Efficient Finetuning and Inference methods  
+- Efficient Finetuning and Inference methods  
 - Hardware-aware Neural Architecture Search
 - Pruning, Quantization, KV Cache eviction
 - High Performance Computing for AI
