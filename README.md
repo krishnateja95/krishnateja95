@@ -18,24 +18,17 @@ Broadly, I am interested in optimizing Deep Learning models on Hardware accelera
 
 ## Education:
 - Iowa State University, Ames, Iowa, USA
-  
-  Doctor of Philosophy (PhD)
-
-  Department of Electrical and Computer Engineering
-
-  August 2017 - July 2023
-
-  Dissertation Title: Hardware-aware Design, Search and Optimization of Deep Neural Networks
-
-  PhD Supervisor: Prof. Dr. Arun Somani
+    - Doctor of Philosophy (PhD)
+    - Department of Electrical and Computer Engineering
+    - August 2017 - July 2023
+    - Dissertation Title: Hardware-aware Design, Search and Optimization of Deep Neural Networks
+    - PhD Supervisor: Prof. Dr. Arun Somani
 
 - University College of Engineering, Osmania University, Hyderabad, India
+    - Bachelor of Engineering
+    - Electronics and Communication Engineering
+    - 2013 - 2017
 
-  Bachelor of Engineering
-
-  Electronics and Communication Engineering
-
-  2013 - 2017
 <!--
 **krishnateja95/krishnateja95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
