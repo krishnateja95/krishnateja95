@@ -1,6 +1,6 @@
 # Krishna Teja Chitty-Venkata
 
-Hi there! My name is Krishna Teja Chitty-Venkata. I am a Machine Learning Research Engineer at Red Hat. I work primarily on efficient LLM inference. Prior to Red Hat, I was a Postdoctoral Researcher at Argonne National Laboratory (US Department of Energy, Office of Science). I obtained my PhD at Iowa State University under the supervision of Dr. Arun Somani. My dissertation title is "Hardware-Aware Design, Search, and Optimization of Deep Neural Networks."
+Hi there! My name is Krishna Teja Chitty-Venkata. I am a Machine Learning Research Engineer at Red Hat. I work primarily on efficient LLM inference. Prior to Red Hat, I was a Postdoctoral Researcher at Argonne National Laboratory (US Department of Energy, Office of Science). I obtained my PhD at Iowa State University under the supervision of Dr. Arun Somani.
 
 
 
